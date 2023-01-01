@@ -1,0 +1,15 @@
+@font-face{
+    font-family:'digital-clock-font';
+    src: url('../../media/TickingTimebombBB.ttf');
+}
+
+.bit-display__number{
+    font-family: 'digital-clock-font';
+    font-size: 4rem;
+    letter-spacing: 1rem;
+    margin-left: 1rem;
+
+    color: #F0F8FF;
+    text-shadow: 0 0 1px #F0F8FF, 0 0 3px #F0F8FF, 0 0 5px #6CB4EE, 0 0 8px #6CB4EE, 0 0 11px #6CB4EE, 0 0 14px #6CB4EE, 0 0 17px #6CB4EE;
+}
+
